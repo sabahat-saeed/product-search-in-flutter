@@ -6,7 +6,7 @@
     "configurations": [
         
         {
-            "name": "printing_circle",
+            "name": "product_search_in_flutter",
             "request": "launch",
             "type": "dart"
         }
